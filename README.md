@@ -8,6 +8,8 @@ Utilized data profiling tools, column transformations, and custom M code for a c
 ## 🔗 STAGE 2: Data Modeling
 Designed a relational star schema following best practices in normalization, cardinality, and filter direction.
 Built a scalable and high-performance data model, supporting cross-functional analytics.
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/de5d62c0-fdb1-4c9a-828b-16bd64eb5f1d" />
+
 
 ## 🧠 STAGE 3: DAX & Calculations
 Developed robust calculated columns and measures using DAX for metrics like monthly revenue, return rate, and adjusted profit.
