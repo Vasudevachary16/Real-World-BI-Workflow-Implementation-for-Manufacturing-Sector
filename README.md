@@ -1,7 +1,7 @@
 # Real-World-BI-Workflow-Implementation-for-Manufacturing-Sector
 I designed and developed a professional-grade end-to-end BI solution for a Manufacturing company, applying real-world business intelligence workflows and tools to turn raw data into powerful insights. This hands-on project followed the complete BI lifecycle—from data prep to dashboard design—simulating the daily responsibilities of a modern data professional.
 
-##📍 STAGE 1: Data Preparation & ETL
+## 📍 STAGE 1: Data Preparation & ETL
 Connected to raw datasets using Power Query, applying automated data cleaning, shaping, and transformation processes.
 Utilized data profiling tools, column transformations, and custom M code for a clean, analysis-ready dataset.
 
