@@ -23,4 +23,4 @@ Conducted exploratory data analysis to identify top customers, sales drivers, an
  Power BI, Power Query (M), DAX, Star Schema Modeling, Data Visualization, Data Profiling, Time Intelligence.
 
 
- ![Alt text] 
+ ![Alt text] "C:\Users\vasud\OneDrive\Pictures\Screenshots\1.png"
