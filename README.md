@@ -22,5 +22,6 @@ Conducted exploratory data analysis to identify top customers, sales drivers, an
 ## 📈 Tools & Technologies:
  Power BI, Power Query (M), DAX, Star Schema Modeling, Data Visualization, Data Profiling, Time Intelligence.
 
- <img width="350" alt="1" src= "C:\Users\vasud\OneDrive\Pictures\Screenshots\1.png" />
+ <img width="350" alt="1" src= "<img width="593" alt="1" src="https://github.com/user-attachments/assets/87a0f8e1-9af9-4c1f-ab58-78c160b096b9" />
+" />
 
